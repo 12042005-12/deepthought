@@ -1,5 +1,5 @@
 # Methodology
-
+Due to the 24-hour assignment window, a representative sample of 25 Hyderabad-based companies was analyzed. The methodology is designed to scale to 1000+ companies.
 ## City Selected
 
 Hyderabad
